@@ -1,0 +1,37 @@
+* {
+    -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+    font-family: "Open Sans"
+}
+
+body {
+    text-align: center;
+}
+
+
+ul {
+    list-style: none;
+    margin-right: 50px;
+}
+
+#ig, #fb {
+    opacity: .7;
+}
+
+#ig:hover {
+   opacity: 1; 
+}
+
+#fb:hover {
+   opacity: 1; 
+}
+
+.socialmedia {
+    height: 25px;
+}
+
+.selfie {
+    height: 400px;
+}
